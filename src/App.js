@@ -1,7 +1,8 @@
+import Header from "./Components/Header";
 
 function App() {
   return (
-    <p>my site</p>
+    <Header/>
   );
 }
 
